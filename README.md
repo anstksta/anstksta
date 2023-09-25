@@ -1,0 +1,4 @@
+- Hello, I'm @anstksta, u can call me Nastya
+- I'm interested in business analytics and the application of IT technologies for business. During my studies, I was very interested in frontend-dev, so I have a good command of HTML5 and CSS and had experience working with JS
+- I’m currently learning to model business processes, work with databases (PostgreSQL, DBeaver), study marketing (also Internet marketing separately), enterprise IT infrastructure and data flow management models and methods
+- I'm looking for internships to increase my knowledge and skills and consolidate them
